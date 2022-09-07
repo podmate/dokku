@@ -4,6 +4,10 @@
 
 The `nixpacks` builder builds apps via [Nixpacks](https://nixpacks.com/), a buildpack alternative.
 
+## Requirements
+
+Using the nixpacks plugin integration requires the `nixpacks` package to be installed. See [this document](https://nixpacks.com/docs/install) from the Nixpacks documentation for more information on the installation process for the `nixpacks`.
+
 ## Usage
 
 ### Detection
